@@ -13,7 +13,7 @@
 <p align="center">
    <li align="center">👋 Hello I'm Rkhyg</li>
    <li align="center">📌 I'm Live on Yogyakarta</li>
-   <li align="center">▫️ My Hobbies is Coding & Reverse Engineering & Pentesting</li>
+   <li align="center">▫️ My Hobbies is Coding & Pentesting</li>
 </p>
 
 <hr>
