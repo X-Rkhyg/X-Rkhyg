@@ -50,9 +50,9 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rkhyg&theme=dark&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHanz&theme=dark&hide_border=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Rkhyg&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <img src="https://github-readme-stats.vercel.app/api?username=ItsHanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkhyg&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHanz&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
