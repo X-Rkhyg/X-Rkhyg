@@ -26,7 +26,7 @@
    <a href="https://instagram.com/rkh.yg_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
    <a href="https://discord.gg/gJzpeaDYfX"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"></a>
    <a href="https://wa.me/6285158338027"><img src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white"></a>
-   <a href="https://www.facebook.com/profile.php?id=100080803441769"><img src="https://img.shields.io/badge/facebook-1877F2.svg?logo=facebook&logoColor=white"></a>
+   <a href="https://www.facebook.com/profile.php?id=100080803441769"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white"></a>
 <p>
 
 <hr>
