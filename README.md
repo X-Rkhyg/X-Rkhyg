@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/X-Rkhyg"><img title="Rkhyg" src="https://img.shields.io/badge/Rkhyg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+   <a href="https://github.com/X-Rkhyg"><img title="Rey" src="https://img.shields.io/badge/Rkhyg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <li align="center">👋 Hello I'm Rkhyg</li>
+   <li align="center">👋 Hello I'm Rey</li>
    <li align="center">📌 I'm Live on Yogyakarta</li>
    <li align="center">▫️ My Hobbies is Coding & Pentesting</li>
 </p>
